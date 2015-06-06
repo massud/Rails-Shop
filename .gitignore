@@ -20,4 +20,4 @@
 /config/application.yml
 
 #ignore files uploaded on localhost
-/public/sytem
+/public/system
